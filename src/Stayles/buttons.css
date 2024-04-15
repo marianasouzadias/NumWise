@@ -1,0 +1,41 @@
+.buttons-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 2em;
+  margin-top: 10px;
+}
+
+.buttons {
+  width: 30%;
+  height: 50px;
+  font-size: 1.5em;
+  border: none;
+  border-radius: 50%;
+  margin: 0.5em;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.buttons:hover {
+  cursor: pointer;
+}
+
+.numbers {
+  background-color: #8a8fa3;
+  color: white;
+}
+
+.functionalities {
+  background-color: #adbbc6;
+  color: #374255;
+}
+
+.functionalities:hover {
+  background-color: #2a53a0;
+  color: white;
+}
+
+.numbers:hover {
+  background-color: #011b20;
+  color: #4a5c6a;
+}
