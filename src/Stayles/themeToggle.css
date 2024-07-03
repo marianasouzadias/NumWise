@@ -37,10 +37,10 @@
 .theme-toggle input:checked + .slider:before {
   transform: translateX(26px);
 }
-.theme-toggle.light {
+.theme-toggle.light .slider {
   background: #f3f3f3;
 }
 
-.theme-toggle.dark {
+.theme-toggle.dark .slider {
   background: #1a1717;
 }
