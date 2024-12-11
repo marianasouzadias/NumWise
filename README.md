@@ -1,6 +1,8 @@
 # NumWise ⚙️ 
 Bem-vindo ao NumWise, uma calculadora desenvolvida em React, que oferece funcionalidades avançadas e personalização de tema.
 
+![Imagem do WhatsApp de 2024-12-11 à(s) 20 22 21_40d55c55](https://github.com/user-attachments/assets/27e7dc9e-d466-40dd-95a5-83c6f40fba43)
+
 ## Funcionalidades
 
 - Operações básicas: adição, subtração, multiplicação e divisão.
