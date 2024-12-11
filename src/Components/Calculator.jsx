@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import Display from "./Display";
-import "../Stayles/Calculator.css";
-import "../Stayles/buttons.css";
-import "../Stayles/themeToggle.css";
-import "../Stayles/displayStayle.css";
+import "../Styles/Calculator.css";
+import "../Styles/Buttons.css";
+import "../Styles/ThemeToggle.css";
+import "../Styles/DisplayStyle.css";
 
 const Calculator = () => {
   const [displayValue, setDisplayValue] = useState("0");

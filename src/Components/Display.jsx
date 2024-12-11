@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import "../Stayles/displayStayle.css";
+import "../Styles/DisplayStyle.css";
 
 const Display = ({ value, theme }) => {
   return (
